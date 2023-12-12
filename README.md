@@ -1,6 +1,6 @@
 [Go Back](https://hs86442.github.io/)
 # _________________
-## Website 
+# Website 
 # _________________
 <!DOCTYPE html>
 <html>
@@ -23,7 +23,7 @@
 </html>
 
 # _________________
-## Buttons
+# Buttons
 # _________________
 <title>buttons are here</title>
 <style>
@@ -113,7 +113,7 @@
 </button>
 
 # _________________
-## Text
+# Text
 # _________________
 <title>titles are defintately not here</title>
 <style>
